@@ -1,0 +1,9 @@
+keys palettePalettePages
+	creature_editor_palette_pages~!ce_page_outfits_hat
+	creature_editor_palette_pages~!ce_page_outfits_detail
+	creature_editor_palette_pages~!ce_page_outfits_chest
+	creature_editor_palette_pages~!ce_page_outfits_shoulder
+	creature_editor_palette_pages~!ce_page_outfits_mask
+	creature_editor_palette_pages~!ce_page_outfits_symbol
+	creature_editor_palette_pages~!ce_page_outfits_adventurer
+end 

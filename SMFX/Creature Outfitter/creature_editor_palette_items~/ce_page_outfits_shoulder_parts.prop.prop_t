@@ -1,0 +1,43 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+keys palettePagePartItems
+	tribal_outfit_parts~!ta_shoulders_05-symmetric
+	tribal_outfit_parts~!ta_shoulders_01-symmetric
+	tribal_outfit_parts~!ta_shoulders_02-symmetric
+	tribal_outfit_parts~!ta_shoulders_06-symmetric
+	tribal_outfit_parts~!ta_shoulders_04-symmetric
+	tribal_outfit_parts~!ta_shoulders_03-symmetric
+	tribal_outfit_parts~!ca_shoulders_01-symmetric
+	tribal_outfit_parts~!ca_shoulders_02-symmetric
+	tribal_outfit_parts~!ca_shoulders_03-symmetric
+	tribal_outfit_parts~!sa_shoulders_01-symmetric
+	tribal_outfit_parts~!sa_shoulders_02-symmetric
+	tribal_outfit_parts~!sa_shoulders_03-symmetric
+end
+key palettePagePartParentPage creature_editor_palette_pages~!ce_page_outfits_shoulder

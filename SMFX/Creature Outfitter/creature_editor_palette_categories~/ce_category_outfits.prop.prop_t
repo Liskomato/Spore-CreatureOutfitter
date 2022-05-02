@@ -1,0 +1,17 @@
+key parent Adventure_brushes~!TemplatePaletteCategory.prop
+keys paletteCategoryIconList
+	editors_creature_outfits!button-outfit-norm.png
+	editors_creature_outfits!button-outfit-off.png
+	editors_creature_outfits!button-outfit-hl.png
+	editors_creature_outfits!button-outfit-act.png
+	editors_creature_outfits!button-outfit-on-norm.png
+	editors_creature_outfits!button-outfit-off.png
+	editors_creature_outfits!button-outfit-on-hl.png
+	editors_creature_outfits!button-outfit-on-act.png
+	editors_creature_outfits!button-outfit-norm.png
+end 
+texts paletteCategoryName
+	(cip!0x0000000A) "Outfits"
+end
+uint32 paletteCategorySequenceNumber 760
+	

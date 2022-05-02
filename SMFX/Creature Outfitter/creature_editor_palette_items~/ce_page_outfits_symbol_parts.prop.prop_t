@@ -1,0 +1,43 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+keys palettePagePartItems
+	tribal_outfit_parts~!ta_symbols_06
+	tribal_outfit_parts~!ta_symbols_02
+	tribal_outfit_parts~!ta_symbols_08
+	tribal_outfit_parts~!ta_symbols_07
+	tribal_outfit_parts~!ta_symbols_04
+	tribal_outfit_parts~!ta_symbols_05
+	tribal_outfit_parts~!ca_symbols_02
+	tribal_outfit_parts~!ta_symbols_03
+	tribal_outfit_parts~!ca_symbols_03
+	tribal_outfit_parts~!ca_symbols_04
+	tribal_outfit_parts~!ta_symbols_01
+	tribal_outfit_parts~!ca_symbols_01
+end
+key palettePagePartParentPage creature_editor_palette_pages~!ce_page_outfits_symbol

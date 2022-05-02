@@ -1,0 +1,4 @@
+key parent Adventure_brushes~!TemplatePalettePartsPage.prop
+key palettePageParentCategory creature_editor_palette_categories~!ce_category_outfits.prop
+uint32 palettePageSequenceNumber 101
+int32 palettePageSetId 1

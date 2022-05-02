@@ -1,0 +1,43 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+keys palettePagePartItems
+	tribal_outfit_parts~!ta_masks_03
+	tribal_outfit_parts~!ta_masks_02
+	tribal_outfit_parts~!ta_masks_05
+	tribal_outfit_parts~!ta_masks_04
+	tribal_outfit_parts~!ta_masks_01
+	tribal_outfit_parts~!ta_masks_06
+	tribal_outfit_parts~!ca_masks_03
+	tribal_outfit_parts~!ca_masks_02
+	tribal_outfit_parts~!ca_masks_01
+	tribal_outfit_parts~!sa_masks_01
+	tribal_outfit_parts~!sa_masks_02
+	tribal_outfit_parts~!sa_masks_03
+end
+key palettePagePartParentPage creature_editor_palette_pages~!ce_page_outfits_mask

@@ -1,0 +1,55 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	0
+	1
+	1
+	1
+	1
+	2
+	2
+	2
+	2
+	3
+	3
+	3
+	3
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+end
+keys palettePagePartItems
+	tribal_outfit_parts~!ta_loincloths_01
+	tribal_outfit_parts~!ta_chestpieces_02
+	tribal_outfit_parts~!ta_chestpieces_03
+	tribal_outfit_parts~!ta_loincloths_04
+	tribal_outfit_parts~!ta_chestpieces_01
+	tribal_outfit_parts~!ta_loincloths_02
+	tribal_outfit_parts~!ta_loincloths_03
+	tribal_outfit_parts~!ta_chestpieces_04
+	tribal_outfit_parts~!ca_chestpieces_01
+	tribal_outfit_parts~!ca_chestpieces_04
+	tribal_outfit_parts~!ca_chestpieces_02
+	tribal_outfit_parts~!ca_chestpieces_03
+	tribal_outfit_parts~!sa_chestpieces_01
+	tribal_outfit_parts~!sa_chestpieces_02
+	tribal_outfit_parts~!sa_chestpieces_03
+	tribal_outfit_parts~!sa_chestpieces_04
+end
+key palettePagePartParentPage creature_editor_palette_pages~!ce_page_outfits_chest
