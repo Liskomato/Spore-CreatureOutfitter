@@ -1,0 +1,6 @@
+<mod displayName="Creature Outfitter" unique="Lisko_CreatureOutfitter" description="Adds the outfit parts into the Creature Editor and makes them savable in all editors. Doesn't affect sharability." installerSystemVersion="1.0.1.0" hasCustomInstaller="false" dllsBuild="2.5.20">
+<prerequisite>CreatureOutfitter.package</prerequisite>
+<remove game="GalacticAdventures">*CreatureOutfitter*</remove>
+<remove game="Spore">*CreatureOutfitter*</remove>
+<remove>*CreatureOutfitter*</remove>
+</mod>
